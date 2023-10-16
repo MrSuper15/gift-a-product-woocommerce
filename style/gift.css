@@ -1,0 +1,77 @@
+.gift-field-wrap {
+    margin: 20px 0;
+    padding: 15px 25px;
+    border: solid 1px;
+    border-radius: 5px;
+    position: relative;
+    display: none;
+}
+
+.gift-group {
+    margin: 20px 0 20px;
+}
+
+.gift-group label {
+    margin: 3px 0;
+    font-size: 18px;
+    font-weight: 700;
+    display: block;
+}
+
+.gift-group input {
+        height: 30px;
+        border: solid 1px;
+        background: #fefefe;
+        border-radius: 5px;
+}
+
+.gift-close-btn {
+    cursor: pointer;
+    position: absolute;
+    right: 15px;
+    top: 10px;
+}
+
+.info-wrap {
+    display: flex;
+    align-items: center;
+}
+
+.info-wrap p {
+    margin: 0 !important;
+}
+
+.info-wrap img {
+    margin-right: 15px;
+}
+
+.no-bottom {
+    margin-bottom: 0;
+}
+
+.gift-textarea {
+    width: 100%;
+}
+
+.show {
+    display: block !important;
+}
+
+.hidden {
+    display: none !important;
+}
+
+#single-gift-btn {
+    padding: 18px 30px 18px 30px;
+    border-radius: 0px;
+    float: none;
+    background-color: #cba052 !important;
+    color: white;
+    margin: 0 10px;
+    opacity: 1 !important;
+}
+
+#single-gift-btn:hover {
+    background-color: black !important;
+    transition: all 0.3s;
+}

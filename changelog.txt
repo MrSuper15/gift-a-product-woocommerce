@@ -1,0 +1,20 @@
+*VERSION 0.6
+**** MINOR CSS BUG FIXED
+*
+*VERSION 0.5
+**** MINOR EMAIL BUG FIXED
+*
+*VERSION 0.4
+**** MINOR BUG FIXED
+*
+*VERSION 0.3
+**** Added mail template
+**** Added product location
+**** Display new data into order details and email
+**** Added form reset function after added to cart
+*
+*VERSION 0.2
+**** MINOR CSS BUG FIXED
+*
+*VERSION 0.1
+**** INITIAL RELEASE
